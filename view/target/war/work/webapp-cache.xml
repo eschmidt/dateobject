@@ -5,8 +5,8 @@
       <path-set>
         <pathsSet class="linked-hash-set">
           <string>WEB-INF/web.xml</string>
-          <string>WEB-INF/applicationContext-hibernate.xml</string>
-          <string>WEB-INF/spring/jdbc.properties</string>
+          <string>WEB-INF/pages/testDateObject.jsp</string>
+          <string>WEB-INF/spring/applicationContext-hibernate.xml</string>
           <string>WEB-INF/spring/frontController-servlet.xml</string>
           <string>WEB-INF/classes/com/example/controller/DateObjectController.class</string>
           <string>WEB-INF/lib/commons-dbcp-1.2.2.jar</string>

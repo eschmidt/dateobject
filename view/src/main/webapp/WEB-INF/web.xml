@@ -30,6 +30,6 @@
   </context-param>
 
   <listener>
-    <listener-class>org.spring.framework.web.context.ContextLoaderListener</listener-class>
+    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
   </listener>
 </web-app>
