@@ -43,6 +43,7 @@ public class DateObjectServiceImpl implements DateObjectService {
         }
 
         mydo.setLastAccessed(new Date());
+        sessionFactory.getCurrentSession().flush();
 
         return mydo;
     }
